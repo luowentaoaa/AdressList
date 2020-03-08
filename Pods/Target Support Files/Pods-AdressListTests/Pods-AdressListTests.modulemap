@@ -1,0 +1,6 @@
+framework module Pods_AdressListTests {
+  umbrella header "Pods-AdressListTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
